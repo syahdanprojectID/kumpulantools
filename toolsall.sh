@@ -26,7 +26,7 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 
-figlet syahdanprojectID  | lolcat
+figlet syahdanproject  | lolcat
 
 echo -b "_____________________________________________________________" | lolcat
 echo -b "TYPE      : TOOLS INSTALLER $green " |lolcat
@@ -53,7 +53,7 @@ sleep 1
 echo -b $green"[#]> syahdanprojectID On Your System" |lolcat
 
 echo -b $green"[#]> See you Again SCRIPTKIDDIES😎 :)..." |lolcat
-figlet syahdanprojectID | lolcat
+figlet syahdanproject | lolcat
 sleep 1
 exit
 }
