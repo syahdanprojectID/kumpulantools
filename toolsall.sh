@@ -26,7 +26,7 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 
-figlet SYAHDANPROJECTID  | lolcat
+figlet syahdanprojectID  | lolcat
 
 echo -b "_____________________________________________________________" | lolcat
 echo -b "TYPE      : TOOLS INSTALLER $green " |lolcat
@@ -50,10 +50,10 @@ clear
 echo -b $green"[#]> TOOLS YANG KALIAN INSTALL ADA DI DIRECTORY TOOLS GUA " |lolcat
 echo -b $green"[#]> Thanks For Using My Tools" |lolcat
 sleep 1
-echo -b $green"[#]> SYAHDANPROJECTID On Your System" |lolcat
+echo -b $green"[#]> syahdanprojectID On Your System" |lolcat
 
 echo -b $green"[#]> See you Again SCRIPTKIDDIES😎 :)..." |lolcat
-figlet SYAHDANPROJECTID | lolcat
+figlet syahdanprojectID | lolcat
 sleep 1
 exit
 }
@@ -695,7 +695,7 @@ echo -e "============================" | lolcat
 echo -e $b "00. Exit${enda}";
 echo -e "============================" | lolcat
 echo -e "╭─[PILIH NOMORNYA]"
-read -p "   ╰─root@./SYAHDANPROJECTID=" pil;
+read -p "   ╰─root@./syahdanprojectID=" pil;
 
 # Nmap
 
@@ -2988,7 +2988,7 @@ echo -e "${y} SUDAH TERINSTALL.."
 echo "SYAHDAN PROJECTID ON YOUR SYSTEM" | lolcat
 echo "INDONESIAN TERMUX ASSOCIATION" | lolcat
 echo "SEMUA TOOLS YANG KALIAN INSTALL ADA DI DIRECTORY TOOLS GUA" | lolcat
-figlet SYAHDANPROJECTID | lolcat
+figlet syahdanprojectID | lolcat
 exit
 ;;
 
