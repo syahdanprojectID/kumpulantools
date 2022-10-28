@@ -12,7 +12,7 @@ $git clone https://github.com/syahdanprojectID/kumpulantools
 
 ```MENJALANKANNYA```
 
-$cd toolsall
+$cd kumpulantools 
 $chmod +x toolsall.sh
 $sh toolsall.sh
 
